@@ -40,12 +40,4 @@ You can customize normal/activated point color, done icon, animation duration an
 
 [Read Wiki](https://github.com/fython/MaterialStepperView/wiki/Vertical-Style) and learn how to use
 
-## Support me
-
-If you like this library project and you are willing to support me, you can donate me via Alipay or PayPal.
-
-Alipay: fythonx@gmail.com
-
-PayPal: [https://www.paypal.me/fython](https://www.paypal.me/fython)
-
 
