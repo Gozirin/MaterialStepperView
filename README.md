@@ -4,7 +4,6 @@
 
 [Material Design Stepper](https://material.io/guidelines/components/steppers.html) Widgets on Android (SDK 17+)
 
-[Repo Wiki](https://github.com/fython/MaterialStepperView/wiki) [简体中文说明](./README-CN.md)
 
 ## Import (Gradle)
 
@@ -49,28 +48,4 @@ Alipay: fythonx@gmail.com
 
 PayPal: [https://www.paypal.me/fython](https://www.paypal.me/fython)
 
-## License
 
-```
-MIT License
-
-Copyright (c) 2017-2020 Siubeng Fung (fython)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
